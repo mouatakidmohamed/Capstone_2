@@ -19,7 +19,7 @@ As a data analyst, I was assigned two sales territories, Maine and Maryland, to 
 
 # Video Demo
 
-🎥 
+🎥 : https://youtu.be/ZAi2AD_4PRA
 
 
 # Tools Used
